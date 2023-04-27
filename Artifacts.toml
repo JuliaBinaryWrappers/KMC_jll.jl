@@ -1,0 +1,134 @@
+[[KMC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6c7decd85ae15d58548647c304f1894583f47b97"
+libc = "glibc"
+os = "linux"
+
+    [[KMC.download]]
+    sha256 = "079af56a856f02f4117c0d46977122e3d270a524d6fcab3ed57274be8d5d91b6"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[KMC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d705d342a9fc5915e6a52ee2c5d9bd5342d393c4"
+libc = "glibc"
+os = "linux"
+
+    [[KMC.download]]
+    sha256 = "d47b52168c36fe215e438c65df5a2c91712fdc5282105280d474d6dbf028b4da"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[KMC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ab3d86c5a8d5b761b393cee5372a88df551772e5"
+libc = "musl"
+os = "linux"
+
+    [[KMC.download]]
+    sha256 = "0d4056f137227bb4e0527f3977aa40c3bb91426ecf80a1f44106f1754edd3d17"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.aarch64-linux-musl-cxx03.tar.gz"
+[[KMC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e08208eae317ad6362f1ffc060260c393927b252"
+libc = "musl"
+os = "linux"
+
+    [[KMC.download]]
+    sha256 = "3989d4facfd72fb19a1b8d4c6260ec4552650eb6e4c6110e9335161f8d4b9fca"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.aarch64-linux-musl-cxx11.tar.gz"
+[[KMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9a065a49734bda3c3abd527d98e7ccb4e8883550"
+os = "macos"
+
+    [[KMC.download]]
+    sha256 = "699a17e4fc2ad29b5143375fb378f42b9d24401d87195f7ecb8cf71f1b106300"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.x86_64-apple-darwin-cxx03.tar.gz"
+[[KMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "617f0a1911ae78f87de719f4686296c35290c9f0"
+os = "macos"
+
+    [[KMC.download]]
+    sha256 = "ecfa3e663de0002074da5d7ef9088668e076f2490f353ea0845c0e8909e15395"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.x86_64-apple-darwin-cxx11.tar.gz"
+[[KMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1092f41d05535606f2ea03e7a843722359a2c17f"
+libc = "glibc"
+os = "linux"
+
+    [[KMC.download]]
+    sha256 = "664dee64ede181f3023c909e765e8ee5cc6d42a7d341a640d2b484d83d18f275"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[KMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dce7036d52ac1b4ff3ec352e1a67a191287c2db7"
+libc = "glibc"
+os = "linux"
+
+    [[KMC.download]]
+    sha256 = "3499cafbfafa07e5cd3333d433ebbd0f16d96cecc7e85da493781207061d391d"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[KMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "52f8e1a1509be5526dafe453e31fbc5db7b67d28"
+libc = "musl"
+os = "linux"
+
+    [[KMC.download]]
+    sha256 = "8ca9febeddc3faaa448aa223e78ac99bbcbada46a3fd188e62da293ea6ba691b"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.x86_64-linux-musl-cxx03.tar.gz"
+[[KMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40353b3f76b9ae27fe01c4ed9a00e626377ad184"
+libc = "musl"
+os = "linux"
+
+    [[KMC.download]]
+    sha256 = "8e1abf3ef13aed54059be0902448dabe7d700e6fcb77d0975c849748796f3410"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.x86_64-linux-musl-cxx11.tar.gz"
+[[KMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3a6a747a425c79d14cc23e8ee2eb7aa0bcbb896b"
+os = "freebsd"
+
+    [[KMC.download]]
+    sha256 = "91e91b35e82542038c7f5eab93b12ef138eb38659ea7ec3d7621f13e20987c0f"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.x86_64-unknown-freebsd-cxx03.tar.gz"
+[[KMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c905e3a0948cec872d5af6f5c85e8fe042242138"
+os = "freebsd"
+
+    [[KMC.download]]
+    sha256 = "182caa5b004b597ed620de3fb298f648fd0a47a779210132abc19a688bc6bbcd"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.x86_64-unknown-freebsd-cxx11.tar.gz"
+[[KMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e92cc4eb59a1862723adc2621af5fc59c5935238"
+os = "windows"
+
+    [[KMC.download]]
+    sha256 = "2201ffa5732d3c6cddb20cb0b73123fdf4d796a68c71d67ca31ba6a872c11786"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[KMC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "94362aaaa0ac97b2c2a4d5db76254c49386f76ce"
+os = "windows"
+
+    [[KMC.download]]
+    sha256 = "0c5f67dcaf83fac06720a45b445ff80b955132e160cb302166502e39e129d3ea"
+    url = "https://github.com/JuliaBinaryWrappers/KMC_jll.jl/releases/download/KMC-v3.2.2+0/KMC.v3.2.2.x86_64-w64-mingw32-cxx11.tar.gz"
